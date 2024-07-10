@@ -10,7 +10,7 @@ In the comprehensive analysis of the Bike Store, the primary objective is to pro
 4. Weekend sales significantly outpace weekday sales.
 5. Customers who purchase accessories along with bikes have a higher overall spending.
 
-## Final Conclusion to improve Fashion store sales:
+## Final Conclusion to improve Bike store sales:
 1. Target Middle-Aged Customers: Focus marketing efforts on middle-aged demographics, the largest group of bike purchasers.
 2. Cater to Male Customers: Offer high-end products and targeted promotions to male customers, who have a higher average income per purchase.
 3. Urban Focus: Prioritize urban markets where customers spend more on bikes.
